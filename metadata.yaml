@@ -1,0 +1,5 @@
+homepage: "https://github.com/precariostecnicos"
+documentation: "https://github.com/precariostecnicos/DocumentTitle"
+versions:
+  - sha: aae93a64c2b8968b408a06d5da09f12fa5b41f01
+    changeNotes: Initial release.
