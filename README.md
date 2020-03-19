@@ -1,1 +1,1 @@
-DocumentTitle
+Returns the value of document.title
