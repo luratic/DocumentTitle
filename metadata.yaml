@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/variables/document-title/"
 versions:
+  # Latest version
+  - sha: f67ebebdbf873872a5c312a80d2c1d97cabc2262
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: aae93a64c2b8968b408a06d5da09f12fa5b41f01
     changeNotes: Initial release.
